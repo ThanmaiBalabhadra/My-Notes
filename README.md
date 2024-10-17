@@ -1,6 +1,6 @@
 # MyNotes Website
 
-MyMemo is a secure and user-friendly web application that allows users to write, save, and manage their notes effortlessly. This website ensures that users' notes are private and accessible only to them, thanks to robust authentication mechanisms.
+MyNotes is a secure and user-friendly web application that allows users to write, save, and manage their notes effortlessly. This website ensures that users' notes are private and accessible only to them, thanks to robust authentication mechanisms.
 
 ## Features
 
